@@ -5,10 +5,9 @@ Bem-vinda(o) ao meu portfólio! ✨
 ---
 
 ## 💼 Sobre mim
-Sou estudante de Engenharia de Software e estou em constante evolução na área de tecnologia.
+Sou estudante de Engenharia de Software e estou em constante evolução na área de tecnologia, com foco em desenvolvimento web e análise de dados.
 
-Tenho foco em desenvolvimento web, análise de dados e aprendizado prático com projetos reais.
-
+Busco transformar aprendizado em projetos práticos e reais.
 ---
 
 ## 📊 O que você vai encontrar aqui
@@ -37,3 +36,14 @@ Em breve organização dos meus certificados aqui no repositório.
 Este repositório está sendo atualizado conforme meu aprendizado e prática na área.
 
 ---
+## 📊 Projeto em Destaque
+
+### Dashboard de Análise de Dados
+
+🔗 Acesse o projeto:  
+👉 [Ver dashboard](https://github.com/Carol457-eng/dashboard-diversidade)
+
+---
+
+## 📌 Objetivo
+Construir uma base sólida como desenvolvedora e conquistar minha primeira oportunidade na área de tecnologia.
