@@ -57,8 +57,8 @@ Construir uma base sólida como desenvolvedora e conquistar minha primeira oport
 
 Fique à vontade para entrar em contato comigo 😊
 
-<a href="https://instagram.com/carolinny_._" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/>
+<a href="https://www.linkedin.com/in/sandy-carolinny-704952377/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
 </a>
 
 <a href="https://wa.me/67992904815" target="_blank">
