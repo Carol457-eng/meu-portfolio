@@ -53,5 +53,16 @@ Busco transformar aprendizado em projetos práticos e reais.
 Construir uma base sólida como desenvolvedora e conquistar minha primeira oportunidade na área de tecnologia.
 
 ---
+## 📫 Contatos
+
+Fique à vontade para entrar em contato comigo 😊
+
+<a href="https://instagram.com/carolinny_._" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/>
+</a>
+
+<a href="https://wa.me/67992904815" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40"/>
+</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
