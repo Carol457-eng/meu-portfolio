@@ -28,7 +28,9 @@ Busco transformar aprendizado em projetos práticos e reais.
 ---
 
 ## 📜 Certificados
-Em breve organização dos meus certificados aqui no repositório.
+
+🎓 Certificado de Análise de Dados  
+👉 [Ver certificado](certificado-analise-de-dados.pdf)
 
 ---
 
