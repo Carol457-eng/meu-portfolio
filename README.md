@@ -75,3 +75,5 @@ Adoro aprender criando projetos e estou focada em evoluir como desenvolvedora Fu
 <a href="https://wa.me/67992904815" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40"/>
 </a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
